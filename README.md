@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My name is Ozan. 
-#### I'm a web development student from Toronto, Ontario.
-#### I have a background in Marketing, and a passion for technology.
+### 👋 My name is Ozan. 
+#### 🎓 I'm a web development student from Toronto, Ontario.
+#### 📈I have a background in Marketing, and a passion for technology.
 
 <a href="https://www.linkedin.com/in/ozanlago/">🔗LinkedIn</a>
 <a href="https://stackoverflow.com/users/23215831/ozan">📚StackOverflow</a>
