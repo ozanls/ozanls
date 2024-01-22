@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 #### 🎓 I'm a web development student from Toronto, Ontario.
 #### 📈 I have a background in Marketing, and a passion for technology.
 
+![Ozan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozan.ls&show_icons=true&theme=radical)
+
+
 <a href="https://twitter.com/ozanls">
 <img src="twitter.png" alt="Twitter" width="100" height="100">
 </a>
