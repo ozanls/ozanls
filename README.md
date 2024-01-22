@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 My name is Ozan.
-#### 🌱 I’m currently learning HTML, CSS, JS and C#.
+### 👋 My name is **Ozan**.
+#### 🌱 I’m currently learning *HTML, CSS, JS* and *C#*.
 #### 🎓 I'm a web development student from Toronto, Ontario.
 #### 📈 I have a background in Marketing, and a passion for technology.
 
