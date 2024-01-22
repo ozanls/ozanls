@@ -18,13 +18,16 @@ Here are some ideas to get you started:
 #### 🎓 I'm a web development student from Toronto, Ontario.
 #### 📈 I have a background in Marketing, and a passion for technology.
 
-<a href="https://www.w3schools.com">
-<img src="twitter.png" alt="W3Schools.com" width="100" height="100">
+<a href="https://twitter.com/ozanls">
+<img src="twitter.png" alt="Twitter" width="100" height="100">
 </a>
-
-<a href="https://www.linkedin.com/in/ozanlago/">🔗LinkedIn</a>
-<a href="https://stackoverflow.com/users/23215831/ozan">📚StackOverflow</a>
-<a href="https://twitter.com/ozanls">🐤Twitter</a>
-<a href="https://discordapp.com/users/ozan.ls/">🤖Discord</a>
-
+<a href="https://www.linkedin.com/in/ozanlago">
+<img src="linkedin.png" alt="LinkedIn" width="100" height="100">
+</a>
+<a href="https://stackoverflow.com/users/23215831/ozan">
+<img src="stack_overflow.png" alt="StackOverflow" width="100" height="100">
+</a>
+<a href="https://discordapp.com/users/ozan.ls/">
+<img src="discord.png" alt="Discord" width="100" height="100">
+</a>
 
