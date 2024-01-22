@@ -1,5 +1,6 @@
-![### Hi there 👋](ghbanner.png "github banner")
+![hello!](ghbanner.png "github banner")
 
+## Hello there,
 <!--
 **ozanls/ozanls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome to my profile!
+## My name is Ozan. I'm a web development student from Toronto, Ontario.
+
+[Email](lago.ozan@gmail.com) [Twitter](https://twitter.com/ozanls) [LinkedIn](https://www.linkedin.com/in/ozanlago/) [StackOverflow](https://stackoverflow.com/users/23215831/ozan) [Discord](https://discordapp.com/users/ozan.ls/)
