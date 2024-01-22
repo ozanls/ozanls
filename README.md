@@ -32,4 +32,7 @@ Here are some ideas to get you started:
 <a href="https://discordapp.com/users/ozan.ls/">
 <img src="discord.png" alt="Discord" width="50" height="50">
 </a>
+<a href="lago.ozan@gmail.com">
+<img src="mail.png" alt="Email" width="50" height="50">
+</a>
 
