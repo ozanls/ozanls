@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### 📈 I have a background in Marketing, and a passion for technology.
 
 <a href="https://www.w3schools.com">
-<img src="twitter.png" alt="W3Schools.com" width="100" height="132">
+<img src="twitter.png" alt="W3Schools.com" width="100" height="100">
 </a>
 
 <a href="https://www.linkedin.com/in/ozanlago/">🔗LinkedIn</a>
