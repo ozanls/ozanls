@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 
 
 <a href="https://twitter.com/ozanls">
-<img src="twitter.png" alt="Twitter" width="100" height="100">
+<img src="twitter.png" alt="Twitter" width="50" height="50">
 </a>
 <a href="https://www.linkedin.com/in/ozanlago">
-<img src="linkedin.png" alt="LinkedIn" width="100" height="100">
+<img src="linkedin.png" alt="LinkedIn" width="50" height="50">
 </a>
 <a href="https://stackoverflow.com/users/23215831/ozan">
-<img src="stack-overflow.png" alt="StackOverflow" width="100" height="100">
+<img src="stack-overflow.png" alt="StackOverflow" width="50" height="50">
 </a>
 <a href="https://discordapp.com/users/ozan.ls/">
-<img src="discord.png" alt="Discord" width="100" height="100">
+<img src="discord.png" alt="Discord" width="50" height="50">
 </a>
 
