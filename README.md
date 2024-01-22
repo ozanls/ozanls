@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 #### I have a background in Marketing, and a passion for technology.
 
 <div style="text-align: justify"> 
-[🐤Twitter](https://twitter.com/ozanls) --- [🔗LinkedIn](https://www.linkedin.com/in/ozanlago/) --- [📚StackOverflow](https://stackoverflow.com/users/23215831/ozan) --- [🤖Discord](https://discordapp.com/users/ozan.ls/)
+<a href="https://www.linkedin.com/in/ozanlago/">🔗LinkedIn</a>
+<a href="https://stackoverflow.com/users/23215831/ozan">📚StackOverflow</a>
+<a href="https://twitter.com/ozanls">🐤Twitter</a>
+<a href="https://discordapp.com/users/ozan.ls/">🤖Discord</a>
 </div>
 
 
