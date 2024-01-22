@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 #### 🎓 I'm a web development student from Toronto, Ontario.
 #### 📈 I have a background in Marketing, and a passion for technology.
 
+<a href="https://www.w3schools.com">
+<img src="twitter.png" alt="W3Schools.com" width="100" height="132">
+</a>
+
 <a href="https://www.linkedin.com/in/ozanlago/">🔗LinkedIn</a>
 <a href="https://stackoverflow.com/users/23215831/ozan">📚StackOverflow</a>
 <a href="https://twitter.com/ozanls">🐤Twitter</a>
