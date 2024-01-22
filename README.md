@@ -1,4 +1,4 @@
-![hello!](ghbanner.png "github banner")
+![hello!](banner.png "github banner")
 
 # Welcome to my profile!
 <!--
