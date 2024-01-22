@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="linkedin.png" alt="LinkedIn" width="100" height="100">
 </a>
 <a href="https://stackoverflow.com/users/23215831/ozan">
-<img src="stack_overflow.png" alt="StackOverflow" width="100" height="100">
+<img src="stack-overflow.png" alt="StackOverflow" width="100" height="100">
 </a>
 <a href="https://discordapp.com/users/ozan.ls/">
 <img src="discord.png" alt="Discord" width="100" height="100">
