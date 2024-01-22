@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ### My name is Ozan. 
 #### I'm a web development student from Toronto, Ontario.
-Connect with me at the following links:
+#### I have a background in Marketing, and a passion for technology.
+Lets connect!:
 
 [🐤Twitter](https://twitter.com/ozanls) --- [🔗LinkedIn](https://www.linkedin.com/in/ozanlago/) --- [📚StackOverflow](https://stackoverflow.com/users/23215831/ozan) --- [🤖Discord](https://discordapp.com/users/ozan.ls/)
