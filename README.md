@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #### I'm a web development student from Toronto, Ontario.
 #### I have a background in Marketing, and a passion for technology.
 
-<div style="text-align: justify"> 
+<div style="text-align: right"> 
 <a href="https://www.linkedin.com/in/ozanlago/">🔗LinkedIn</a>
 <a href="https://stackoverflow.com/users/23215831/ozan">📚StackOverflow</a>
 <a href="https://twitter.com/ozanls">🐤Twitter</a>
