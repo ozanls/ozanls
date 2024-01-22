@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ![Ozan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanls&show_icons=true&theme=transparent)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanls&layout=compact)
+
 
 <a href="https://twitter.com/ozanls">
 <img src="twitter.png" alt="Twitter" width="50" height="50">
