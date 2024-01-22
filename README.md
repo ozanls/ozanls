@@ -1,3 +1,5 @@
+(githubbanner.png "github banner)
+
 ### Hi there 👋
 
 <!--
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Welcome to my profile!
+## Welcome to my profile!
