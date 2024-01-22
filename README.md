@@ -1,4 +1,4 @@
-![### Hi there 👋](githubbanner.png "github banner")
+![### Hi there 👋](ghbanner.png "github banner")
 
 <!--
 **ozanls/ozanls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
