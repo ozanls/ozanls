@@ -1,4 +1,4 @@
-(githubbanner.png "github banner)
+!(githubbanner.png "github banner)
 
 ### Hi there 👋
 
