@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ## My name is Ozan. I'm a web development student from Toronto, Ontario.
 
-[Twitter](https://twitter.com/ozanls)      [LinkedIn](https://www.linkedin.com/in/ozanlago/)      [StackOverflow](https://stackoverflow.com/users/23215831/ozan)      [Discord](https://discordapp.com/users/ozan.ls/)      [Email](lago.ozan@gmail.com) 
+[🐤Twitter](https://twitter.com/ozanls) --- [🔗LinkedIn](https://www.linkedin.com/in/ozanlago/) --- [📚StackOverflow](https://stackoverflow.com/users/23215831/ozan) --- [🤖Discord](https://discordapp.com/users/ozan.ls/)
