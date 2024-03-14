@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### 👋 My name is Ozan.
 #### 🎓 I'm a web development student from Toronto, Ontario.
 #### 📈 I have a background in Marketing, and a passion for technology.
-#### 🌱 I’m currently learning *HTML, CSS, JS and C#*.
+#### 🌱 I’m currently learning *HTML, CSS, JS C#*, and SQL.
 
 ![Ozan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanls&show_icons=true&theme=transparent)
 
