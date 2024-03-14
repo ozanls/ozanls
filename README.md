@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### 👋 My name is Ozan.
-#### 🎓 I'm a web development student from Toronto, Ontario.
+#### 🎓 I'm a Junior Web Developer from Toronto, Ontario.
 #### 📈 I have a background in Marketing, and a passion for technology.
 #### 🌱 I’m currently learning *HTML, CSS, JS C#*, and SQL.
 
