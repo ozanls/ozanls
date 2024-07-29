@@ -3,7 +3,7 @@
 # Welcome to my profile!
 
 ### 👋 My name is Ozan.
-#### 🎓 I'm a Junior Web Developer from Toronto, Ontario.
+#### 🎓 I'm a Full-Stack Web Developer from Toronto, Ontario.
 #### 📈 I have a background in Marketing, and a passion for technology.
 
 ![Ozan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanls&show_icons=true&theme=transparent)
